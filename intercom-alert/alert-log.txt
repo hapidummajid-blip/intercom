@@ -1,0 +1,3 @@
+[2026-02-19T22:02:41.044Z] [SENT][INFO] msg="Deploy v2.1 selesai ke staging" id=e14f196d recipients=0
+[2026-02-19T22:02:41.045Z] [SENT][WARN] msg="Disk usage 85% di server-01" id=d299f977 recipients=0
+[2026-02-19T22:02:41.046Z] [SENT][CRITICAL] msg="Database connection lost!" id=d58fd012 recipients=0
